@@ -8,5 +8,5 @@ npm i redux react-redux redux-thunk
 
 # Screenshot of the final outcome:
 
-![](images/screenshot.png)
+![](images/screenshot.PNG)
 
